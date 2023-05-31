@@ -97,3 +97,9 @@ hr{
 .nav-bar ul li a:hover{
     text-decoration:underline;
 }
+
+/* social - icons */
+
+.social-icons{
+    display: none;
+}
