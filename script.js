@@ -2,9 +2,9 @@
 
 const btnHam = document.querySelector('.ham-btn');
 
-const btnTimes = document.querySelector('times-btn');
+const btnTimes = document.querySelector('.times-btn');
 
-const navBar = document.getElementById(nav-bar);
+const navBar = document.getElementById('nav-bar');
 
 btnHam.addEventListener('click', function(){
     if(btnHam.className !== "")
@@ -14,4 +14,3 @@ btnHam.addEventListener('click', function(){
         navBar.classList.add("show-nav");
     }
 })
-
