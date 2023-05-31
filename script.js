@@ -14,3 +14,13 @@ btnHam.addEventListener('click', function(){
         navBar.classList.add("show-nav");
     }
 })
+
+btnTimes.addEventListener('click', function(){
+    if(btnHam.className !== "")
+    {
+        this.style.display = "none";
+        btnHam.style.display = "block";
+        navBar.classList.remove("show-nav");
+    }
+
+})
