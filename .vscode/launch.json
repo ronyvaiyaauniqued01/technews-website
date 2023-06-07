@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/ronyv/Documents/all_work/technews-website/index.html",
+            "url": "file:///C:/Users/MD%20MEHEDI%20HASAN%20RONY/Documents/GitHub/technews-website/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
